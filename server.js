@@ -3,7 +3,7 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-const API_KEY = '756cbcd6-4bbd-4203-9468-dde742c847b7';
+const API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 const API_URL = 'https://ark.cn-beijing.volces.com/api/v3/chat/completions';
 
 // 日志记录函数
